@@ -9,12 +9,14 @@
         <module name="cloud-consumer-order80" />
         <module name="cloud-eureka-server-7002" />
         <module name="cloud-consume-order80" />
+        <module name="cloud-stream-rabbitmq-consumer8803" />
         <module name="cloud-consumerzk-order80" />
         <module name="cloud-eureka-server-7001" />
         <module name="cloud-provider-payment8004" />
         <module name="cloud-provider-payment8002" />
         <module name="cloud-provider-payment8001" />
         <module name="cloud-provider-hystrix-payment8001" />
+        <module name="cloud-stream-rabbitmq-consumer8802" />
         <module name="cloud-stream-rabbitmq-provider8801" />
         <module name="cloud-api-common" />
         <module name="cloud-consumer-feign-hystrix-order-80" />
