@@ -1,0 +1,1 @@
+加上RefreshScope后需执行curl -X POST  "http://localhost:3355/actuator/refresh"

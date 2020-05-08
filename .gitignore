@@ -1,0 +1,17 @@
+# Project exclude paths
+/cloud-api-common/target/
+/cloud-config-center-3344/target/
+/cloud-config-client3366/target/
+/cloud-config-client-3355/target/
+/cloud-consume-order80/target/
+/cloud-consumer-feign-hystrix-order-80/target/
+/cloud-consumer-hystrix-dashboard9001/target/
+/cloud-consumerzk-order80/target/
+/cloud-eureka-server-7001/target/
+/cloud-eureka-server-7002/target/
+/cloud-gateway-gateway9527/target/
+/cloud-provider-hystrix-payment8001/target/
+/cloud-provider-payment8001/target/
+/cloud-provider-payment8002/target/
+/cloud-provider-payment8004/target/
+/cloud-stream-rabbitmq-provider8801/target/
