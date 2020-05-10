@@ -1,0 +1,15 @@
+server:
+  port: 9002
+spring:
+  application:
+    name: nacos-payment-provider
+  cloud:
+    nacos:
+      discovery:
+        server-addr: www.lixiang.ac.cn:8848
+
+management:
+  endpoints:
+    web:
+      exposure:
+        include: '*'
